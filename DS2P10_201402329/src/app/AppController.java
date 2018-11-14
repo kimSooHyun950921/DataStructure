@@ -36,8 +36,8 @@ public class AppController {
 					+ "(" + String.format("%8d", this.managerForThreeSorts().estimationForInsertionSortAt(iteration))+")"
 					+ String.format("%15d", this.managerForThreeSorts().measurementForQuickSortAt(iteration))
 					+ "(" + String.format("%8s", this.managerForThreeSorts().estimationForQuickSortAt(iteration)) + ")"
-					+ String.format("%15d", this.managerForThreeSorts().estimationForInsertionSortAt(iteration)) 
-					+ "("+String.format("%sd", this.managerForThreeSorts().estimationForHeapSortAt(iteration)) + ")");
+					+ String.format("%15d", this.managerForThreeSorts().measurementForHeapSortAt(iteration)) 
+					+ "("+String.format("%8s", this.managerForThreeSorts().estimationForHeapSortAt(iteration)) + ")");
 		}
 
 	}
