@@ -2,9 +2,10 @@
 족보/
 .metadata
 .idea
-.recommeders
+.recommenders
 */.project
 */.classpath
 */*.pdf
 */*.zip
 */.settings
+*/*.hwp
