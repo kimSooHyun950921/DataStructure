@@ -1,0 +1,10 @@
+자료/
+족보/
+.metadata
+.idea
+.recommeders
+*/.project
+*/.classpath
+*/*.pdf
+*/*.zip
+*/.settings
