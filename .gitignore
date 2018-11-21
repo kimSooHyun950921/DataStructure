@@ -3,10 +3,10 @@
 .metadata
 .idea
 .recommends
-*/.project
-*/.classpath
-*/*.pdf
-*/*.zip
-*/.settings
-*/*.hwp
+*/**/*.project
+*/**/*.classpath
+*/**/*.pdf
+*/**/*.zip
+*/**/*.settings
+*/**/*.hwp
 /.recommenders/
