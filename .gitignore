@@ -10,3 +10,4 @@
 */**/*.settings
 */**/*.hwp
 /.recommenders/
+*/**/*.txt
